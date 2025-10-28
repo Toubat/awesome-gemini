@@ -1,0 +1,7 @@
+{
+  "name": "Speech Emotion Recognition",
+  "description": "An application to analyze the emotion from speech using the Gemini API. Record your voice or upload an audio file to see the result.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
